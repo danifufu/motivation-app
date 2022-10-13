@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="text_phrase">Test phrase</string>
+    <string name="salutation">Olá, nome!</string>
+    <string name="button_phrase">Nova Frase</string>
+    <string name="lets_begin">Vamos começar?</string>
+    <string name="whats_your_name">Qual o seu nome?</string>
+    <string name="button_save">Salvar</string>
+    <string name="validation_mandatory_name">Informe seu nome!</string>
+</resources>
